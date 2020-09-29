@@ -6,6 +6,6 @@
 - 🌻 Wechat: famanoder
 
 - 🍬 [My gist](https://gist.github.com/famanoder)
-- 🎃 [My site](https://famanoder.com)
+- 🎃 [My site](http://www.famanoder.com/release/poetry)
 
 My popular OSS projects are as follows: 👇🏼 
